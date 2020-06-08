@@ -1,0 +1,157 @@
+{
+	"result": {
+		"ok": 1,
+		"n": 10
+	},
+	"ops": [
+		{
+			"name": "Krish",
+			"age": 35,
+			"gender": "M",
+			"exp": 10,
+			"subjects": [
+				"DS",
+				"C",
+				"OS"
+			],
+			"type": "Full Time",
+			"qualification": "M.Tech",
+			"_id": "5e4e6d4f2de19d13ccb42e27"
+		},
+		{
+			"name": "Manoj",
+			"age": 38,
+			"gender": "M",
+			"exp": 12,
+			"subjects": [
+				"JAVA",
+				"DBMS"
+			],
+			"type": "Full Time",
+			"qualification": "Ph.D",
+			"_id": "5e4e6d4f2de19d13ccb42e28"
+		},
+		{
+			"name": "Anush",
+			"age": 32,
+			"gender": "F",
+			"exp": 8,
+			"subjects": [
+				"C",
+				"CPP"
+			],
+			"type": "Part Time",
+			"qualification": "M.Tech",
+			"_id": "5e4e6d4f2de19d13ccb42e29"
+		},
+		{
+			"name": "Suresh",
+			"age": 40,
+			"gender": "M",
+			"exp": 9,
+			"subjects": [
+				"JAVA",
+				"DBMS",
+				"NETWORKING"
+			],
+			"type": "Full Time",
+			"qualification": "Ph.D",
+			"_id": "5e4e6d4f2de19d13ccb42e2a"
+		},
+		{
+			"name": "Rajesh",
+			"age": 35,
+			"gender": "M",
+			"exp": 7,
+			"subjects": [
+				"DS",
+				"C",
+				"OS"
+			],
+			"type": "Full Time",
+			"qualification": "M.Tech",
+			"_id": "5e4e6d4f2de19d13ccb42e2b"
+		},
+		{
+			"name": "Mani",
+			"age": 38,
+			"gender": "F",
+			"exp": 10,
+			"subjects": [
+				"JAVA",
+				"DBMS",
+				"OS"
+			],
+			"type": "Part Time",
+			"qualification": "Ph.D",
+			"_id": "5e4e6d4f2de19d13ccb42e2c"
+		},
+		{
+			"name": "Sivani",
+			"age": 32,
+			"gender": "F",
+			"exp": 8,
+			"subjects": [
+				"C",
+				"CPP",
+				"MATHS"
+			],
+			"type": "Part Time",
+			"qualification": "M.Tech",
+			"_id": "5e4e6d4f2de19d13ccb42e2d"
+		},
+		{
+			"name": "Nagesh",
+			"age": 39,
+			"gender": "M",
+			"exp": 11,
+			"subjects": [
+				"JAVA",
+				"DBMS",
+				"NETWORKING"
+			],
+			"type": "Full Time",
+			"qualification": "Ph.D",
+			"_id": "5e4e6d4f2de19d13ccb42e2e"
+		},
+		{
+			"name": "Nagesh",
+			"age": 35,
+			"gender": "M",
+			"exp": 9,
+			"subjects": [
+				"JAVA",
+				".Net",
+				"NETWORKING"
+			],
+			"type": "Full Time",
+			"qualification": "Ph.D",
+			"_id": "5e4e6d4f2de19d13ccb42e2f"
+		},
+		{
+			"name": "Latha",
+			"age": 40,
+			"gender": "F",
+			"exp": 13,
+			"subjects": [
+				"MATHS"
+			],
+			"type": "Full Time",
+			"qualification": "Ph.D",
+			"_id": "5e4e6d4f2de19d13ccb42e30"
+		}
+	],
+	"insertedCount": 10,
+	"insertedIds": {
+		"0": "5e4e6d4f2de19d13ccb42e27",
+		"1": "5e4e6d4f2de19d13ccb42e28",
+		"2": "5e4e6d4f2de19d13ccb42e29",
+		"3": "5e4e6d4f2de19d13ccb42e2a",
+		"4": "5e4e6d4f2de19d13ccb42e2b",
+		"5": "5e4e6d4f2de19d13ccb42e2c",
+		"6": "5e4e6d4f2de19d13ccb42e2d",
+		"7": "5e4e6d4f2de19d13ccb42e2e",
+		"8": "5e4e6d4f2de19d13ccb42e2f",
+		"9": "5e4e6d4f2de19d13ccb42e30"
+	}
+}

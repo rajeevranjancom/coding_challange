@@ -1,0 +1,10 @@
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2a"), "name" : "Suresh", "age" : 41, "gender" : "M", "exp" : 9, "subjects" : [ "JAVA", "DBMS", "NETWORKING" ], "type" : "Full Time", "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e30"), "name" : "Latha", "age" : 41, "gender" : "F", "exp" : 13, "subjects" : [ "MATHS", "PSK" ], "type" : "Full Time", "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2e"), "name" : "Nagesh", "age" : 40, "gender" : "M", "exp" : 11, "subjects" : [ "JAVA", "DBMS", "NETWORKING" ], "type" : "Full Time", "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e28"), "name" : "Manoj", "age" : 39, "gender" : "M", "exp" : 12, "subjects" : [ "JAVA", "DBMS" ], "type" : "Full Time", "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2c"), "name" : "Mani", "age" : 39, "gender" : "F", "exp" : 10, "subjects" : [ "JAVA", "DBMS", "OS" ], "type" : "Part Time", "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e27"), "name" : "Krish", "age" : 37, "gender" : "M", "exp" : 10, "subjects" : [ "DS", "C", "OS" ], "type" : "Full Time", "qualification" : "M.Tech" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2b"), "name" : "Rajesh", "age" : 36, "gender" : "M", "exp" : 7, "subjects" : [ "DS", "C", "OS" ], "type" : "Full Time", "qualification" : "M.Tech" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2f"), "name" : "Nagesh", "age" : 36, "gender" : "M", "exp" : 9, "subjects" : [ "JAVA", ".Net", "NETWORKING" ], "type" : "Full Time", "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e29"), "name" : "Anush", "age" : 33, "gender" : "F", "exp" : 8, "subjects" : [ "C", "CPP" ], "type" : "Part Time", "qualification" : "M.Tech" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2d"), "name" : "Sivani", "age" : 33, "gender" : "F", "exp" : 8, "subjects" : [ "C", "CPP", "MATHS", "PSK" ], "type" : "Full Time", "qualification" : "Ph.D" }

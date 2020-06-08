@@ -1,0 +1,10 @@
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2b"), "name" : "Rajesh", "exp" : 7, "qualification" : "M.Tech" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e29"), "name" : "Anush", "exp" : 8, "qualification" : "M.Tech" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2d"), "name" : "Sivani", "exp" : 8, "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2a"), "name" : "Suresh", "exp" : 9, "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2f"), "name" : "Nagesh", "exp" : 9, "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e27"), "name" : "Krish", "exp" : 10, "qualification" : "M.Tech" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2c"), "name" : "Mani", "exp" : 10, "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e2e"), "name" : "Nagesh", "exp" : 11, "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e28"), "name" : "Manoj", "exp" : 12, "qualification" : "Ph.D" }
+{ "_id" : ObjectId("5e4e6d4f2de19d13ccb42e30"), "name" : "Latha", "exp" : 13, "qualification" : "Ph.D" }
