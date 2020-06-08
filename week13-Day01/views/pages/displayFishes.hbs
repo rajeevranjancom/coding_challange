@@ -1,0 +1,18 @@
+<section class="container">
+    <div class="row">
+        {{#each fishes}}
+            <div class="col-2">
+                <div><span>Name:</span>{{this.name}}</div>
+                <div><span>Type:</span>{{this.type}}</div>
+                <div><span>Color:</span>{{this.color}}</div>
+                <div><span>Size:</span>{{this.size}}</div>
+                <form action="/fish/{{this._id}}?_method=GET" method="POST">
+                    <button type="submit">Update</button>
+                </form>
+                <form action="/fish/{{this._id}}?_method=DELETE" method="POST">
+                    <button type="submit">Delete</button>
+                </form>
+            </div>
+        {{/each}}
+    </div>
+</section>
