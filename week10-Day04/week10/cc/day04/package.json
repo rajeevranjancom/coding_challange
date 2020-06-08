@@ -1,0 +1,27 @@
+{
+  "name": "week10_day04_cc",
+  "version": "1.0.0",
+  "description": "week_10_day04_cc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "postman",
+    "nodemon",
+    "morgan",
+    "uuid"
+  ],
+  "author": "Atanu Paul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  }
+}

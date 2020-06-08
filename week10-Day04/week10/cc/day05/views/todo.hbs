@@ -1,0 +1,11 @@
+{{>headers}}
+<link rel="stylesheet" href="css/style.css" />
+<h1>This are your todays TO DOs</h1>
+{{#each todo}}
+<ul>
+  <li>
+    <h3>{{title}}</h3><br>
+    <p style="color: gold; background-color:black;">{{body}}</p>
+  </li>
+</ul>
+{{/each}}
