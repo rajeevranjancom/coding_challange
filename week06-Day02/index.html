@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        content 1
+        <span>Span child 1</span>
+        <h1>I am the Super man</h1>
+    </div>
+
+    <section>
+        <h1>I am The Batman</h1>
+    </section>
+
+    <span>
+    span child 3
+    <h1>I am the Jocker</h1>
+</span>
+    <div>
+        <span>
+        span child 4
+    </span>
+
+        <h1>I am Ironman</h1>
+        <div>
+            <span>span child 5</span>
+            <span>Demos</span>
+        </div>
+    </div>
+
+    <script>
+        var divArr = document.getElementsByTagName('div');
+        var output = "";
+        for (var i = 0; i < divArr.length; i++) { <
+            output += divArr[i].querySelector('span').innerText + ","
+
+        }
+        console.log(output.toUpperCase());
+    </script>
+
+</body>
+
+</html>
